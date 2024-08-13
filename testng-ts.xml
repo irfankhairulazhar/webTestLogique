@@ -6,7 +6,7 @@
 	<parameter name="chrome" value="chrome" />
 	<parameter name="firefox" value="firefox" />
 
-	<test name="Logisly Web Automation">
+	<test name="logique Web Automation">
 		<classes>
 			<class name="runners.TestRunner"/>
 		</classes>
